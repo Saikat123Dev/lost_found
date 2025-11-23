@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://lost-found-5vwh.onrender.com/api';
 
 // Local Storage Keys
 const STORAGE_KEYS = {
